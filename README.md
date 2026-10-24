@@ -9,7 +9,6 @@
 
 Passionate about applying **AI, machine learning, data science, and software development** to build practical solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-n/)
 
 </div>
 
@@ -99,20 +98,6 @@ Developed and compared CNN, MobileNetV2, VGG16, and ResNet50 models through imag
 - 🔥 [IT462_BigData](https://github.com/Layantt/IT462_BigData) — Distributed data processing with Apache Spark and Scala.
 - 📊 [Data-Science-Project](https://github.com/Layantt/Data-Science-Project) — Data science and exploratory analysis using Python and Jupyter Notebook.
 - 🌐 [Saheel – Web Development Project](https://github.com/Sralsubaihi/Saheel-Project) — Collaborative front-end web design and implementation.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Layantt&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Layantt&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Layantt&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
