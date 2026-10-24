@@ -110,6 +110,4 @@ A collaborative web development project focused on designing and implementing us
 
 ### Thanks for visiting! 🌟
 
-*Feel free to explore my projects and connect with me on LinkedIn.*
-
 </div>
