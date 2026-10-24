@@ -72,19 +72,17 @@ Developed and compared CNN, MobileNetV2, VGG16, and ResNet50 models through imag
 
 `Python` `TensorFlow` `Keras` `Google Colab` `Deep Learning`
 
-### 🩸 [Wahib – Blood Donation Platform](https://github.com/leen204/Wahib-IT230-project)
-
-A web platform designed to support and organize blood donation between donors and hospitals.
-
-Developed collaboratively using Agile methodology and software engineering practices.
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Agile`
-
 ### ❤️ [Heart Disease Prediction](https://github.com/JoudySaleh-IT/PredictingHeartDisease)
 
 A data mining project applying classification and clustering techniques to heart disease data to support prediction and identify meaningful patterns.
 
 `Python` `Pandas` `Scikit-learn` `Decision Tree` `K-means`
+
+### 📊 [Data Science Project](https://github.com/Layantt/Data-Science-Project)
+
+Explored data science techniques through data collection, preprocessing, exploratory data analysis, and interpretation using Python and Jupyter Notebook.
+
+`Python` `Pandas` `Jupyter Notebook` `Data Analysis`
 
 ### 🔥 [IT462 – Big Data Processing](https://github.com/Layantt/IT462_BigData)
 
@@ -92,11 +90,13 @@ Applied distributed data processing concepts using Apache Spark and Scala, inclu
 
 `Scala` `Apache Spark` `RDD` `Spark SQL`
 
-### 📊 [Data Science Project](https://github.com/Layantt/Data-Science-Project)
+### 🩸 [Wahib – Blood Donation Platform](https://github.com/leen204/Wahib-IT230-project)
 
-Explored data science techniques through data collection, preprocessing, exploratory data analysis, and interpretation using Python and Jupyter Notebook.
+A web platform designed to support and organize blood donation between donors and hospitals.
 
-`Python` `Pandas` `Jupyter Notebook` `Data Analysis`
+Developed collaboratively using Agile methodology and software engineering practices.
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Agile`
 
 ### 🌐 [Saheel – Web Development Project](https://github.com/Sralsubaihi/Saheel-Project)
 
