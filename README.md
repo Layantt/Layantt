@@ -64,13 +64,15 @@ The study uses weak supervision, automatic annotation, and comparative evaluatio
 
 `NLP` `NER` `Weak Supervision` `BERT` `RoBERTa` `DistilBERT` `CRF`
 
-### 🚁 Drone vs. Bird Image Classification
+
+### 🚁 [Drone vs. Bird Image Classification](https://github.com/ghada-alqahtani1/Drone-vs-Bird-Classification)
 
 A machine learning project focused on image classification using deep learning and transfer learning.
 
 Developed and compared CNN, MobileNetV2, VGG16, and ResNet50 models through image preprocessing, model training, and performance evaluation.
 
 `Python` `TensorFlow` `Keras` `Google Colab` `Deep Learning`
+
 
 ### ❤️ [Heart Disease Prediction](https://github.com/JoudySaleh-IT/PredictingHeartDisease)
 
