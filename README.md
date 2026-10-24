@@ -7,7 +7,6 @@
 
 Passionate about applying **AI, machine learning, data science, and software development** to build practical solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
 
 </div>
 
