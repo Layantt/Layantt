@@ -3,10 +3,6 @@
 
 # Hi, I'm Layan! 👋
 
-### AI • Data Science • Software Development
-
-Passionate about building practical solutions through **Artificial Intelligence, Machine Learning, Data Science, and Web Development**.
-
 </div>
 
 ---
