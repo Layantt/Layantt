@@ -3,12 +3,9 @@
 
 # Hi, I'm Layan! 👋
 
-### Information Technology Student | Data Science & AI Track
+### AI • Data Science • Software Development
 
-**King Saud University · Riyadh, Saudi Arabia 🇸🇦**
-
-Passionate about applying **AI, machine learning, data science, and software development** to build practical solutions.
-
+Passionate about building practical solutions through **Artificial Intelligence, Machine Learning, Data Science, and Web Development**.
 
 </div>
 
@@ -16,11 +13,11 @@ Passionate about applying **AI, machine learning, data science, and software dev
 
 ## 👩‍💻 About Me
 
-I'm an Information Technology student specializing in Data Science and Artificial Intelligence at King Saud University. I enjoy developing web applications, exploring machine learning and NLP, and collaborating on projects that solve real-world problems.
+I'm passionate about exploring technology, solving problems, and turning ideas into practical applications.
 
-- 🎯 **Interests:** AI, Machine Learning, NLP, Data Science, Web Development
-- 💼 **Experience:** Academic projects in AI, data analytics, full-stack development, and big data processing
-- 🤝 **Approach:** Teamwork, problem-solving, and continuous learning
+My background is in **Information Technology**, with a focus on **Data Science and Artificial Intelligence**. I have worked on collaborative projects involving full-stack web development, machine learning, natural language processing, data analysis, and big data technologies.
+
+I enjoy learning new technologies, developing technical solutions, and collaborating with others to bring ideas to life.
 
 ---
 
@@ -71,6 +68,14 @@ The study uses weak supervision, automatic annotation, and comparative evaluatio
 
 `NLP` `NER` `Weak Supervision` `BERT` `RoBERTa` `DistilBERT` `CRF`
 
+### 🚁 Drone vs. Bird Image Classification
+
+A machine learning project focused on image classification using deep learning and transfer learning.
+
+Developed and compared CNN, MobileNetV2, VGG16, and ResNet50 models through image preprocessing, model training, and performance evaluation.
+
+`Python` `TensorFlow` `Keras` `Google Colab` `Deep Learning`
+
 ### 🩸 [Wahib – Blood Donation Platform](https://github.com/leen204/Wahib-IT230-project)
 
 A web platform designed to support and organize blood donation between donors and hospitals.
@@ -85,19 +90,23 @@ A data mining project applying classification and clustering techniques to heart
 
 `Python` `Pandas` `Scikit-learn` `Decision Tree` `K-means`
 
-### 🚁 Drone vs. Bird Image Classification
+### 🔥 [IT462 – Big Data Processing](https://github.com/Layantt/IT462_BigData)
 
-A machine learning project focused on image classification using deep learning and transfer learning.
+Applied distributed data processing concepts using Apache Spark and Scala, including data preprocessing, RDD transformations, actions, and Spark SQL operations.
 
-Developed and compared CNN, MobileNetV2, VGG16, and ResNet50 models through image preprocessing, model training, and performance evaluation.
+`Scala` `Apache Spark` `RDD` `Spark SQL`
 
-`Python` `TensorFlow` `Keras` `Google Colab` `Deep Learning`
+### 📊 [Data Science Project](https://github.com/Layantt/Data-Science-Project)
 
-### 📚 More Projects
+Explored data science techniques through data collection, preprocessing, exploratory data analysis, and interpretation using Python and Jupyter Notebook.
 
-- 🔥 [IT462_BigData](https://github.com/Layantt/IT462_BigData) — Distributed data processing with Apache Spark and Scala.
-- 📊 [Data-Science-Project](https://github.com/Layantt/Data-Science-Project) — Data science and exploratory analysis using Python and Jupyter Notebook.
-- 🌐 [Saheel – Web Development Project](https://github.com/Sralsubaihi/Saheel-Project) — Collaborative front-end web design and implementation.
+`Python` `Pandas` `Jupyter Notebook` `Data Analysis`
+
+### 🌐 [Saheel – Web Development Project](https://github.com/Sralsubaihi/Saheel-Project)
+
+A collaborative web development project focused on designing and implementing user-friendly web interfaces.
+
+`HTML` `CSS` `JavaScript` `Web Development`
 
 ---
 
@@ -105,6 +114,6 @@ Developed and compared CNN, MobileNetV2, VGG16, and ResNet50 models through imag
 
 ### Thanks for visiting! 🌟
 
-*Explore the repositories above to learn more about the projects I've built and contributed to.*
+*Feel free to explore my projects and connect with me on LinkedIn.*
 
 </div>
