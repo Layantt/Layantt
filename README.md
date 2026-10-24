@@ -1,12 +1,15 @@
+
 <div align="center">
 
 # Hi, I'm Layan! 👋
 
 ### Information Technology Student | Data Science & AI Track
+
 **King Saud University · Riyadh, Saudi Arabia 🇸🇦**
 
 Passionate about applying **AI, machine learning, data science, and software development** to build practical solutions.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-n/)
 
 </div>
 
@@ -54,35 +57,48 @@ I'm an Information Technology student specializing in Data Science and Artificia
 ## 🚀 Projects
 
 ### 🎉 [AFAQ – Intelligent Event Discovery](https://github.com/razan444200495/2026-GP1-Group15)
-An intelligent event discovery web system for Riyadh with personalized recommendations, an AI chatbot, ratings and reviews, and event management.
-**My contributions:** user registration, admin functionality, ratings and reviews, and featured event sections.
+
+An intelligent event discovery web system for Riyadh featuring personalized recommendations, an AI chatbot, ratings and reviews, and event management.
+
+**My contributions:** User registration, admin functionality, ratings and reviews, and featured event sections. Developed collaboratively using Agile methodology.
 
 `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript` `Agile`
 
 ### 📰 [Human-Written vs. LLM-Generated News – NER Study](https://github.com/leen449/ner-human-vs-llm-news)
-Investigates how human-written and LLM-generated news affect Named Entity Recognition performance and cross-source generalization, using weak supervision and comparative model evaluation.
+
+An NLP research project investigating how human-written and LLM-generated news affect Named Entity Recognition (NER) performance and cross-source generalization.
+
+The study uses weak supervision, automatic annotation, and comparative evaluation of CRF and transformer-based NER models.
 
 `NLP` `NER` `Weak Supervision` `BERT` `RoBERTa` `DistilBERT` `CRF`
 
 ### 🩸 [Wahib – Blood Donation Platform](https://github.com/leen204/Wahib-IT230-project)
-A web platform that supports and organizes blood donation between donors and hospitals.
+
+A web platform designed to support and organize blood donation between donors and hospitals.
+
+Developed collaboratively using Agile methodology and software engineering practices.
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Agile`
 
 ### ❤️ [Heart Disease Prediction](https://github.com/JoudySaleh-IT/PredictingHeartDisease)
-Applied data mining and machine learning techniques to heart disease prediction and analysis.
 
-`Python` `Pandas` `Scikit-learn`
+A data mining project applying classification and clustering techniques to heart disease data to support prediction and identify meaningful patterns.
+
+`Python` `Pandas` `Scikit-learn` `Decision Tree` `K-means`
 
 ### 🚁 Drone vs. Bird Image Classification
-Image classification with CNNs and transfer learning, comparing CNN, MobileNetV2, VGG16, and ResNet50.
 
-`Python` `TensorFlow/Keras` `Google Colab`
+A machine learning project focused on image classification using deep learning and transfer learning.
+
+Developed and compared CNN, MobileNetV2, VGG16, and ResNet50 models through image preprocessing, model training, and performance evaluation.
+
+`Python` `TensorFlow` `Keras` `Google Colab` `Deep Learning`
 
 ### 📚 More Projects
-- 🔥 [IT462_BigData](https://github.com/Layantt/IT462_BigData) — Distributed data processing with Spark and Scala
-- 📊 [Data-Science-Project](https://github.com/Layantt/Data-Science-Project) — Data analysis with Jupyter notebooks
-- 🌐 [Saheel – Web Development Project](https://github.com/Sralsubaihi/Saheel-Project) — Front-end design and implementation
+
+- 🔥 [IT462_BigData](https://github.com/Layantt/IT462_BigData) — Distributed data processing with Apache Spark and Scala.
+- 📊 [Data-Science-Project](https://github.com/Layantt/Data-Science-Project) — Data science and exploratory analysis using Python and Jupyter Notebook.
+- 🌐 [Saheel – Web Development Project](https://github.com/Sralsubaihi/Saheel-Project) — Collaborative front-end web design and implementation.
 
 ---
 
@@ -90,10 +106,11 @@ Image classification with CNNs and transfer learning, comparing CNN, MobileNetV2
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Layantt&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Layantt&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Layantt&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -103,6 +120,6 @@ Image classification with CNNs and transfer learning, comparing CNN, MobileNetV2
 
 ### Thanks for visiting! 🌟
 
-*Explore the repositories above to learn more about what I've built.*
+*Explore the repositories above to learn more about the projects I've built and contributed to.*
 
 </div>
