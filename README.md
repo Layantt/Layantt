@@ -109,5 +109,4 @@ A collaborative web development project focused on designing and implementing us
 <div align="center">
 
 ### Thanks for visiting! 🌟
-
 </div>
